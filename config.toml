@@ -1,4 +1,4 @@
-baseURL = 'https://Jonathan4Kim.github.io/hugo-mock-landing-page/'
+baseURL = "https://Jonathan4Kim/github.io/hugo-mock-landing-page/"
 title = "TabTastic"
 author = "Jonathan Kim"
 copyright = "Jonathan Kim"
