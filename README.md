@@ -1,36 +1,31 @@
-# hugo-mock-landing-page
+# TabTastic - Personalized New Tab Chrome Extension
 
-# TabTastic - A Chrome Extension Mock Landing Page
-
-Tabtastic is a Chrome Extension that transforms your new tab page into a personalized, customizable experience!
-
-## Overview
-
-TabTastic aims to enhance your productivity and browsing experience by offering a range of customizable features directly on your new tab page. Whether you want quick access to your favorite websites, see your to-do list at a glance, or enjoy a fresh wallpaper every day, TabTastic has you covered.
-
-This repository contains the source code for the mock landing page of the TabTastic Chrome Extension, built using Hugo and Bootstrap.
+## Description
+TabTastic is a Chrome extension that revolutionizes your browsing experience by providing a personalized, customizable new tab page. It offers a wide range of features to make your new tab page truly yours, including widgets, shortcuts to favorite websites and apps, to-do lists, background customization, productivity tool integration, weather updates, daily quotes or inspiration, and more.
 
 ## Features
-
-- **Quick Access Links:** Easily access your most visited websites.
-- **To-Do List:** Keep track of your tasks and stay organized.
-- **Custom Backgrounds:** Enjoy a new wallpaper every day or set your own.
-- **Weather Updates:** Get the latest weather information for your location.
-- **Notes:** Jot down quick notes and ideas.
-- **Inspirational Quotes:** Start your day with a dose of motivation.
+- **Personalizable Accessibility:** Add widgets and shortcuts to your favorite websites and apps for quick access.
+- **To-Do List Integration:** Easily jot down ideas or tasks with a built-in to-do list or notes section.
+- **Background Customization:** Set a custom background image or choose from pre-designed themes to customize the look and feel of your new tab page.
+- **Productivity Tool Integration:** Access popular productivity tools like Trello, Google Calendar, or Evernote directly from your new tab page.
+- **Weather Updates:** Stay informed about weather updates and forecasts right on your new tab page.
+- **Daily Quotes or Inspiration:** Start each day with a positive message or thought with a daily quote or inspiration feature on your new tab page.
+- **Latest Posts:** See featured pages or latest posts tailored to your interests.
 
 ## Installation
+1. Clone this repository or download the ZIP file.
+2. Open Google Chrome and navigate to `chrome://extensions/`.
+3. Enable Developer mode by toggling the switch in the top right corner.
+4. Click on "Load unpacked" and select the directory where you cloned/downloaded this repository.
+5. The TabTastic extension should now be installed and visible in the extensions menu.
 
-### Prerequisites
+## Usage
+- After installation, TabTastic will replace the default new tab page with a fully customizable one.
+- Customize your new tab page by adding widgets, setting background images, integrating productivity tools, and more.
+- Enjoy a personalized browsing experience every time you open a new tab with TabTastic!
 
-To set up this project locally, you need to have the following tools installed:
+## Contributing
+Contributions are welcome! If you have any ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request.
 
-- [Hugo](https://gohugo.io/getting-started/installing/)
-- [Node.js](https://nodejs.org/) (for managing dependencies)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/hugo-mock-landing-page.git
-cd hugo-mock-landing-page
-
+## License
+This project is licensed under the [MIT License](LICENSE).
